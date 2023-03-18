@@ -4,7 +4,7 @@
 **This software automatically types the text received from the user.**
 
 ## Usage:
-**1. In the large upper window, paste the Text to transfer.**
+**1. In the large upper window, paste the `Text` to transfer.**
 
 **2. In the small window below, you can set the `Timer` for the copy operation.**
 
