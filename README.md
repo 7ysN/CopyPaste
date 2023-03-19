@@ -1,7 +1,9 @@
 # CopyPaste.py
 
+**Sometimes we work in hardened environments. For example, the simple copy and paste operation is cancelled.** 
 **In cases where it is not possible to copy and paste using `CTRL+V`, you can use this program instead.**
-**This software automatically types the text received from the user.**
+**This program gets a text from the end user and automatically types it on the keyboard.**
+
 
 ## Usage:
 **1. In the large upper window, paste the `Text` to transfer.**
