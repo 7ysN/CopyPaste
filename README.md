@@ -15,5 +15,10 @@
 
 ![2023-03-18 19_26_02-dist](https://user-images.githubusercontent.com/62604022/226123201-55c54ce7-3506-4a8b-ba96-d2a367d95797.png)
 
+## Building Standalone Executable (~10MB):
+```
+pip install -r requirements.txt
+pyinstaller -F .\CopyPaste.py -w
+```
 
 ## Enjoy !
