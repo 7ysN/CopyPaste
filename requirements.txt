@@ -1,1 +1,2 @@
+pyinstaller==6.5.0
 PyAutoGUI==0.9.53
