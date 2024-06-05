@@ -1,14 +1,13 @@
-# CopyPaste.py
+# CopyPaste
 
-**Sometimes we work in hardened environments. For example, the simple copy and paste operation is cancelled.** 
-**In cases where it is not possible to copy and paste using `CTRL+V`, you can use this program instead.**
-**This program gets a text from the end user and automatically types it on the keyboard.**
+**Main Usage:** 
 
+In cases where it is not possible to copy and paste using `CTRL+V`, you can use this program instead.
 
 ## Usage:
 **1. In the large upper window, paste the `Text` to transfer.**
 
-**2. In the small window below, you can set the `Timer` for the copy operation.**
+**2. In the small window below, you need to set the `Timer` before the copy operation.**
 
 **3. Then, press `Paste` click on the second screen and wait for the text to be copied.**
 
@@ -21,4 +20,8 @@ pip install -r requirements.txt
 pyinstaller -F .\CopyPaste.py -w
 ```
 
-## Enjoy !
+#
+### Disclaimer
+
+###### This tool is intended for educational and authorized security operations only. Unauthorized use of this tool may violate applicable laws and regulations. The developers and distributors of this tool assume no responsibility for any misuse or damage caused by its use. By using this tool, you agree to use it in compliance with all relevant laws and only for lawful purposes, such as cybersecurity research, penetration testing on systems you own or have explicit permission to test, and educational demonstrations. Unauthorized access to computer systems is illegal and unethical. Use this tool responsibly.
+
